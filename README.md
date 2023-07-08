@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
-东半球全网最简单易上手，也许是可读性最强的 AST 处理工具！代码转换从未如此简单！ 123
+东半球全网最简单易上手，也许是可读性最强的 AST 处理工具！代码转换从未如此简单！
 ## What is GoGoCode?
 [中文 README](README-cn.md)
 
