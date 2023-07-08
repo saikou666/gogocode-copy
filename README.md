@@ -2,9 +2,8 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
-东半球全网最简单易上手，也许是可读性最强的 AST 处理工具！代码转换从未如此简单！ 
+东半球全网最简单易上手，也许是可读性最强的 AST 处理工具！代码转换从未如此简单！ 123
 ## What is GoGoCode?
-
 [中文 README](README-cn.md)
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
